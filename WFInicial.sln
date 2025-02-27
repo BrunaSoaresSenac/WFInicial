@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFInicial", "WFInicial\WFInicial.csproj", "{296C4198-3884-4FCB-B1AB-725ED8469A0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WFInicial", "WFInicial\WFInicial.csproj", "{296C4198-3884-4FCB-B1AB-725ED8469A0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRevisao", "CRevisao\CRevisao.csproj", "{295B998F-A7DE-45EF-A76C-98BC1A458D40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CEx1", "CRevisao\CEx1.csproj", "{295B998F-A7DE-45EF-A76C-98BC1A458D40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
